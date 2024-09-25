@@ -1,11 +1,8 @@
+
 :root{
-    --cor-de-fundo:#EBECEE;
+    --cor-de-fundo: #EBECEE;
+    --branco: #FFFFFF;
 }
 body{
     background-color: var(--cor-de-fundo);
 }
-.poppins-regular-italic {
-    font-family: "Poppins", sans-serif;
-    font-weight: 400;
-    font-style: italic;
-  }
